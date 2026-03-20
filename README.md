@@ -1,7 +1,3 @@
-# methodDeclination
-
----
-
 # General Disclaimer / Общий отказ от ответственности
 
 All repositories and code provided by my-app-s are provided **"as is"**, without any express or implied warranties.  
