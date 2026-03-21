@@ -1,4 +1,4 @@
-# Copyright (C) 2026 my-app-s
+# Copyright (C) 2021-2026 my-app-s
 # Licensed under the GNU AGPLv3
 
 # Get the number from command line arguments.
